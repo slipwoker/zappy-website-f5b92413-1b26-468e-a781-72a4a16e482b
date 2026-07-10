@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://limi-f5b92413.zappy5.app
+https://example.com
 גלו עולם של מאפים ביתיים מלאים באהבה, היישר מהמטבח של LiMi. טעמים חמים ומנחמים שהוכנו בעבודת יד. הזמינו עכשיו והכניסו הביתה את המתיקות האמיתית.
 
 ### אודות
-https://limi-f5b92413.zappy5.app/about
+https://example.com/about
 הכירו את LiMi – אופה ביתית עם תשוקה אמיתית לבצקים, חמאה ואהבה. קראו איך נולד המותג שמביא לכם מאפים ביתיים מלאים באהבה, בכל ביס. בואו להתאהב.
 
 ### גלריה
-https://limi-f5b92413.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריה המפתה של LiMi וקבלו הצצה לעולם של מאפים ביתיים מלאים באהבה. כל תמונה מספרת סיפור של טעם ויופי. התחילו לחלום על הקינוח הבא שלכם.
 
 ### צור קשר
-https://limi-f5b92413.zappy5.app/contact
+https://example.com/contact
 מוכנים לטעום מאפים ביתיים מלאים באהבה? צרו קשר עם LiMi עוד היום להזמנות מותאמות אישית. אני כאן כדי להמתיק לכם את היום. כתבו לי ונהפוך רעיון למציאות.
 
 ### Products
-https://limi-f5b92413.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LiMi
 
 ### Cart
-https://limi-f5b92413.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://limi-f5b92413.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://limi-f5b92413.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://limi-f5b92413.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://limi-f5b92413.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://limi-f5b92413.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LiMi
 
 ### Category
-https://limi-f5b92413.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LiMi
 
 ### תודה רבה | LiMi
-https://limi-f5b92413.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אלייך בהקדם עם מאפים ביתיים מלאים באהבה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://limi-f5b92413.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://limi-f5b92413.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://limi-f5b92413.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Home Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://limi-f5b92413.zappy5.app/sitemap.xml
-- Robots: https://limi-f5b92413.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://limi-f5b92413.zappy5.app/llms-full.txt
-- Products (JSON): https://limi-f5b92413.zappy5.app/products.json
-- Products (Google Merchant RSS): https://limi-f5b92413.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
